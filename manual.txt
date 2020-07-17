@@ -1,0 +1,10 @@
+https://blog.naver.com/PostView.nhn?blogId=wideeyed&logNo=221439098133
+
+경로 설정 
+ctrl + shift + p 
+python : setinterpreter
+
+D:----
+
+https://sosul.network/series/
+
