@@ -16,3 +16,10 @@ https://wayhome25.github.io/
 
 http://www.secmem.org/blog/2019/02/06/block-cipher/
 암호대하여 
+
+
+git 
+
+
+    git config --global user.name "karistin" 
+   git config --global user.email "seongjung1109@gmail.com"
