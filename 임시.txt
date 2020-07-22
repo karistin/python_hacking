@@ -1,0 +1,12 @@
+Ping 172.25.63.64 32바이트 데이터 사용:
+172.25.63.64의 응답: 바이트=32 시간<1ms TTL=128
+
+172.25.63.64에 대한 Ping 통계:
+    패킷: 보냄 = 1, 받음 = 1, 손실 = 0 (0% 손실),
+왕복 시간(밀리초):
+    최소 = 0ms, 최대 = 0ms, 평균 = 0ms
+
+    https://whackur.tistory.com/168
+
+
+    https://post.naver.com/viewer/postView.nhn?volumeNo=28650250&memberNo=8661711

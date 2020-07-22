@@ -8,3 +8,11 @@ D:----
 
 https://sosul.network/series/
 
+pip install pycryptodome
+
+
+https://wayhome25.github.io/
+공부 ㄱㅊ 
+
+http://www.secmem.org/blog/2019/02/06/block-cipher/
+암호대하여 

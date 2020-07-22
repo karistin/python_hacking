@@ -11,13 +11,15 @@ def parseKey(key):
 
 
     tmp = sorted(tmp,key=lambda x: x[1])
+    #tmp 문자로 정렬 BRAIN 시 
+    #(2(문장에서 있는 순서),A),(0,B),(3,I),(4,N),(1,R)
 
     enc_table={}
     dec_table={}
 
     for i,r in enumerate(tmp):
-        enc_table[r[0]] = i
-        dec_table[i] = r[0]
+        enc_table[r[0]] = i #문자 인덱스 - 전체인덱스
+        dec_table[i] = r[0] #전체인덱스 - 문자 인덱스
 
     return enc_table, dec_table
 
@@ -41,7 +43,7 @@ def transposition(msg,key,mode):
         table=dec_table
 
     if mode==ENC:
-        buf=[' ']*keysize
+        buf=['']*keysize
         for i,c in enumerate(msg):
             col=i%keysize
             index = table[col]
@@ -51,7 +53,7 @@ def transposition(msg,key,mode):
             ret += text
     else:
         blocksize = int(msgsize/keysize)
-        buf =[' ']*keysize
+        buf =['']*keysize
         pos=0
         for i in range(keysize):
             text=msg[pos:pos+blocksize]
