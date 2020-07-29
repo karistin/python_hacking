@@ -22,4 +22,13 @@ git
 
 
 git config --global user.name "karistin" 
-   git config --global user.email "seongjung1109@gmail.com"
+git config --global user.email "seongjung1109@gmail.com"
+
+
+
+http://www.hash.kr/news/index.htm
+코인위키 
+
+https://www.fun-coding.org/index.html
+잔재미코딩
+영상 내용은 볼만함 
