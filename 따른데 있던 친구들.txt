@@ -1,0 +1,30 @@
+잡동산이 
+========================
+
+
+
+https://joshua1988.github.io/vue-camp/ts/with-vue.html
+Vue
+
+https://limdongjin.github.io/vuejs/vuepress/#%ED%95%9C%EC%A4%84%EB%A7%8C-%EC%9E%91%EC%84%B1%ED%95%98%EA%B3%A0%EB%8F%84-%EB%B9%A0%EB%A5%B4%EA%B2%8C-sidebar-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0
+Vuepress
+
+npm install --global yarn
+
+
+https://gall.dcinside.com/board/view/?id=hit&no=15720&page=1
+
+
+https://blog.naver.com/pdj4371/221869398653
+
+
+https://vuepress.vuejs.org/theme/default-theme-config.html#custom-page-class
+
+
+http://www.inven.co.kr/board/webzine/2652/507388
+동방
+
+https://changzac.com/
+그림 사이트 
+
+
