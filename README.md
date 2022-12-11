@@ -3,7 +3,7 @@
 > [화이트 해커를 위한 암호와 해킹](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=200282741)
 
 - 책 내용을 코드로 작성  
-- 2019 ~ 군대에서 작성한 코드입니다  
+- 2020 7~8 군대에서 작성한 코드입니다  
 - 과거의 암호화 부터 현대 암호화 방식을 설명  
 
  [1장 암호](https://github.com/karistin/python_hacking/tree/master/1%EC%9E%A5_%EC%95%94%ED%98%B8(Cipher))  
